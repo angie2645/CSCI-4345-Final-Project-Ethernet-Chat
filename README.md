@@ -41,7 +41,7 @@ The project was built in Python using Scapy and analyzed using Wireshark.
 
 1. Find the network interfaces
 
-    In the terminal, run: python interface.py
+    In the terminal, run: python interfaces.py
    
     and select the active network interface
    
